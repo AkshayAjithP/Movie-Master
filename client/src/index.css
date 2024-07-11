@@ -1,0 +1,13 @@
+@import url("https://fonts.googleleapis.com/css2?family-Monstserrat:weignt@100;500&display-swap");
+
+* {
+  font-family: "Monserrat", san-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgb(39, 36, 36);
+}
+
+body {
+  background-color: white;
+}
